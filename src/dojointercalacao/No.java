@@ -10,7 +10,7 @@ package dojointercalacao;
  * @author Carlos Daniel, Fernando D., João M., Jonatha N., Monique M.
  */
 public class No {
-    int codigo;
+    Cliente cliente;
     String nomeParticao;
     
     No esq;
